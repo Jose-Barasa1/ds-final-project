@@ -23,7 +23,7 @@ Accidents in aviation are still concentrated among certain aircraft types, opera
 ---
 
 ## Repository (how to access the project)
-1. Clone the repository (replace placeholder with actual repo URL):
+1. Clone the repository :
 ```bash
 git clone  git@github.com:Jose-Barasa1/ds-final-project.git 
 cd ds-final-project
